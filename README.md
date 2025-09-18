@@ -1,6 +1,9 @@
 # Earthquake-prediction-using-Machine-learning-models
 
-A project done <b>Dharwin S</b>
+A project done by <b>Dharwin S</b>
+
+<li><u>GitHub Repository:</u> 
+<a href="https://github.com/Dharwin77/3D_House_Design_Recommendation_System" target="_blank">https://github.com/Dharwin77/3D_House_Design_Recommendation_System</a></li>
 
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
